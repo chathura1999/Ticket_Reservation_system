@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobile_app</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+</resources>
